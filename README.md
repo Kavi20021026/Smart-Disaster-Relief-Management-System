@@ -10,13 +10,13 @@ The project was developed as part of a database system project to demonstrate re
 ---
 
 ## Objectives
-- Manage disaster and epidemic related information
+- Manage disaster and epidemic-related information
 - Track affected areas and families
 - Monitor relief centers and available capacity
 - Manage volunteers and their assigned areas
 - Track donations and relief resources
 - Record government assistance programs and distributions
-- Improve transparency and efficiency of relief distribution
+- Improve the transparency and efficiency of relief distribution
 
 ---
 
@@ -71,5 +71,4 @@ These relationships ensure data integrity and proper tracking of disaster relief
 - Distribution log tracking
 
 ---
-
-## Project Files
+© 2026 Kavindu Madushan Dissanayaka. All rights reserved.
